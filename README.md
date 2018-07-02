@@ -5,7 +5,7 @@ Use it on your own risk.
 
 ## Installation
 ```
-wget -N https://raw.githubusercontent.com/zoldur/Lexium/master/Lexium_install.sh
+wget -N https://raw.githubusercontent.com/zoldur/Lexium/master/lexium_install.sh
 bash lexium_install.sh
 ```
 ***
